@@ -47,6 +47,7 @@ Highest-performing categories
 Strongest and weakest regions
 Average customer order value
 Business performance under different filters
+
 📁 Dataset
 
 The project uses a Superstore Sales dataset containing fields such as:
