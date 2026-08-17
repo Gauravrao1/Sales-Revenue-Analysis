@@ -1,4 +1,4 @@
-Sales & Revenue Analysis Dashboard
+###Sales & Revenue Analysis Dashboard
 
 An interactive Power BI dashboard designed to analyze sales performance, revenue trends, product performance, profitability, and regional sales using business data.
 
